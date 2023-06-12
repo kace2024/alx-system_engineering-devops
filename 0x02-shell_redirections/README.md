@@ -1,1 +1,1 @@
-Shell I/O redirections
+0x02 Shell IO redirections and filters readme file
